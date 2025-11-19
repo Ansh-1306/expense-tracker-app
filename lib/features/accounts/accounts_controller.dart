@@ -1,5 +1,5 @@
-import 'package:expense_tracker/data/models/account_model.dart';
-import 'package:expense_tracker/data/services/account_service.dart';
+import 'package:expense_tracker/features/accounts/accounts_model.dart';
+import 'package:expense_tracker/features/accounts/accounts_service.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 

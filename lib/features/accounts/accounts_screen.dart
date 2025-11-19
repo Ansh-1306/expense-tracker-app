@@ -1,4 +1,4 @@
-import 'package:expense_tracker/controllers/account_controller.dart';
+import 'package:expense_tracker/features/accounts/accounts_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

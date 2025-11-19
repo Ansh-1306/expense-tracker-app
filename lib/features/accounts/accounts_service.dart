@@ -1,4 +1,4 @@
-import 'package:expense_tracker/data/models/account_model.dart';
+import 'package:expense_tracker/features/accounts/accounts_model.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class AccountService {

@@ -1,5 +1,5 @@
 import 'package:expense_tracker/constants/app_routes.dart';
-import 'package:expense_tracker/controllers/auth_controller.dart';
+import 'package:expense_tracker/features/auth/auth_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
